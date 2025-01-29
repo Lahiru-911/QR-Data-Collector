@@ -72,7 +72,7 @@ const FormScreen = () => {
           className="border border-gray-300 rounded-lg p-2 mb-4"
         />
         <TextInput
-          placeholder="Type mobile number"
+          placeholder="Type another number"
           value={formData.phone2}
           onChangeText={(text) => handleChange("phone2", text)}
           keyboardType="phone-pad"
