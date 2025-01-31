@@ -17,12 +17,12 @@ const Index = () => {
       </View>
 
       {/* Title */}
-      <Text className="text-5xl font-bold text-white text-center mb-4">
-        Welcome to Data Collector
+      <Text className="text-4xl font-bold text-white text-center mb-4">
+        Welcome to Technook.lk
       </Text>
 
       {/* Subtitle */}
-      <Text className="text-xl text-gray-900 text-center px-4 mb-6">
+      <Text className="text-lg text-gray-900 text-center px-4 mb-6">
       Go and enjoy our features for free and make your life easy with us.
       </Text>
 
